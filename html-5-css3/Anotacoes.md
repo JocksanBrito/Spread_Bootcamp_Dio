@@ -61,3 +61,19 @@ O (P) - Representa um parágrafo, mas ele não suporta apenas textos, podemos ad
 - 2 blank - Ele abre a aba em uma nova aba.
 
 Exercício prático
+
+# Como inserir imagens em seu site
+
+## Images
+
+```
+    <img>
+    <img src="img/avatar/jpg"></img>
+    <img alt="Foto de JocksanBrito"></img>
+```
+
+O SRC - é obrigatório e ele guarda o caminho da imagem, pode ser uma imagem dentro do próprio site ou até mesmo de um banco de imagem apenas com a url.
+
+O Alt - é altamente recomendado para aumentar a acessibilidade, mostra para o usurário o que aquela imagem em questão significa.
+
+Exercício prático
