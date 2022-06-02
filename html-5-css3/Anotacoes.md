@@ -90,3 +90,51 @@ O ``<li>`` ***Item list***  é usado para representar um item que faz parte de u
 
 **Exercício prático** -> *Adicionando uma lista de contatos ao rodapé do site.*
 
+
+# Introdução e conceitos básicos do CSS3
+## Introdução ao CSS3
+Definição: Criar regras de estilos para elementos ou grupo de elementos.
+
+### O que são seletores:
+  * Seletores <br>
+    ![seletores](./assets/img/seletores-css.PNG)
+
+*Seletores html (a, h1, h3 etc,) são apenas elementos html, dentro de um par de chaves temos apenas declarações, uma declaração é formada por uma propriedade e um valor ```color: blue``` *
+
+
+### conceitos básicos:
+  * Box Model <br>
+        ![image](./assets/img/box-model.PNG)
+*Margin: São os aspaçamentos entre os elementos*<br>
+*Border: elas circundam o padding e o conteúdo. Conseguimos alterar a aparência delas como: Largura e Cor* <br>
+*Padding: É o espaçamento entre a borda e o conteúdo*<br>
+*Content: É o bloco que o seu conteúdo representa: Uma imagem, um texto, um vídeo e etc. *
+
+* Principais seletores CSS
+  Div class:
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Estilizando elementos, textos e listas
+## Objetivos:
+
+
+
