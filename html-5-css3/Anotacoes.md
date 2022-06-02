@@ -60,7 +60,7 @@ O (P) - Representa um parágrafo, mas ele não suporta apenas textos, podemos ad
 - 1 href - É o hiperlink para onde a sua ancora está apontando
 - 2 blank - Ele abre a aba em uma nova aba.
 
-Exercício prático
+**Exercício prático** -> *Adicionando um texto fictício ao post do site.*
 
 # Como inserir imagens em seu site
 
@@ -76,4 +76,17 @@ O SRC - é obrigatório e ele guarda o caminho da imagem, pode ser uma imagem de
 
 O Alt - é altamente recomendado para aumentar a acessibilidade, mostra para o usurário o que aquela imagem em questão significa.
 
-Exercício prático
+**Exercício prático** -> *Adicionando uma imagem ao cabeçalho da página e a nossa postagem.*
+
+
+# Como organizar listas com HTML
+## Tags li,ul e ol
+
+O elemento ``<ul>`` ***Unordery list***  representa uma lista em que a ordem dos itens não é importante.
+
+O elemento ``<ol>`` ***Ordery list*** representa uma lista em que a ordem dos itens é importante.
+
+O ``<li>`` ***Item list***  é usado para representar um item que faz parte de uma lista.
+
+**Exercício prático** -> *Adicionando uma lista de contatos ao rodapé do site.*
+
