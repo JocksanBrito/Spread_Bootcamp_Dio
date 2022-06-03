@@ -37,4 +37,24 @@ São elementos filhos diretos do **Flex Container**. E tambémm podem se torna *
 * order -> Relacionando a ordem de distribuição e listagem desses Itens
 * align-self -> Vai definir o alinhamento de um item específico desse nosso **Container** 
 
+# Fundamentos do Flexbox - Parte 1 (Flex Container)
+
+## Estrutura básica do ``display: flex``
+Sugestões: 
+Usando o vscode instale essas duas extensões para ajudar a visualização em tempo real das mudanças feitas no html.
+* HTML Snippets
+* Live HTML Previewer
+  
+### Objetivos da aula
+1. Conhecer e aplicar a propriedade de inicialização do **flex container** 
+
+#### ``Display: flex``;
+
+Torna a tag um elemento do tipo flex container, e assim automaticamente todos os seus filhos diretos desta tag, tornam-se em flex items.
+
+***Prática*** 
+&nbsp;
+## Posicionando elementos com Flexbox em css.
+[Prática](./praticas-html/0-display-flex.html)
+
 
