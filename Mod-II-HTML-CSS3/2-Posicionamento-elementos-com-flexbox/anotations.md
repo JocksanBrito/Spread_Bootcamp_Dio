@@ -40,21 +40,42 @@ São elementos filhos diretos do **Flex Container**. E tambémm podem se torna *
 # Fundamentos do Flexbox - Parte 1 (Flex Container)
 
 ## Estrutura básica do ``display: flex``
-Sugestões: 
+**Sugestões:** 
 Usando o vscode instale essas duas extensões para ajudar a visualização em tempo real das mudanças feitas no html.
 * HTML Snippets
 * Live HTML Previewer
   
-### Objetivos da aula
+### Objetivos da aula:
 1. Conhecer e aplicar a propriedade de inicialização do **flex container** 
 
-#### ``Display: flex``;
+#### ``display: flex``;
 
 Torna a tag um elemento do tipo flex container, e assim automaticamente todos os seus filhos diretos desta tag, tornam-se em flex items.
-
-***Prática*** 
 &nbsp;
 ## Posicionando elementos com Flexbox em css.
-[Prática](./praticas-html/0-display-flex.html)
+*[Prática](./praticas-html/0-display-flex.html)*
 
 
+## Estrutura básica do flex direction
+### Objetivos da aula:
+1. Entender o comportamento padrão de orientação horizontal de um **flex container**
+2. Aprender a modificar a orientação horizontal
+#### ``flex-direction``
+É a propriedade que estabelece o eixo principal do container, definindo assim a direção que os flex items são colocados no flex container.
+
+**Os eixos**
+* row (padrão): à direção do texto, esquerda para a direita. 
+   ![Default flex](./assets/img/right-flex-direction.PNG)
+
+* row-reverse: sentido oposto à direção to texto.
+    ![row-reverse](./assets/img/reverse-row-direction.PNG)
+    &nbsp;
+
+* column: odernação de cima para baixo, em coluna unica.<br>
+    ![column](./assets/img/column-flex-direction.PNG)
+
+* column-reverse: odernação inversa de baixo para cima, em coluna unica.<br>
+    ![column-reverse](./assets/img/column-reverse-flex-direction.PNG)
+
+## Prática com flex direction.
+*[Prática]()*
