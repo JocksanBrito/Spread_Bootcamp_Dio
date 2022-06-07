@@ -74,8 +74,10 @@ Torna a tag um elemento do tipo flex container, e assim automaticamente todos os
 * column: odernação de cima para baixo, em coluna unica.<br>
     ![column](./assets/img/column-flex-direction.PNG)
 
-* column-reverse: odernação inversa de baixo para cima, em coluna unica.<br>
+* column-reverse: ordenação inversa de baixo para cima, em coluna unica.<br>
     ![column-reverse](./assets/img/column-reverse-flex-direction.PNG)
 
 ## Prática com flex direction.
-*[Prática]()*
+*[Prática]("../../praticas-html/1-flex-drection.html")*
+
+#### ``flex-wrap``
