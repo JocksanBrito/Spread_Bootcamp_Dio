@@ -81,3 +81,11 @@ Torna a tag um elemento do tipo flex container, e assim automaticamente todos os
 *[Prática]("../../praticas-html/1-flex-drection.html")*
 
 #### ``flex-wrap``
+É a propriedade que define se os itens devem ou não quebrar a linha.
+
+Por padrão ele não quebram linhas, isso faz com que os flex itens sejam compactados além do limite do conteúdo.
+
+* ``nowrap``: é o padrão, não permite a quebra de linha.
+* ``wrap``: permite a quebra de linha a ssim que um dos flex itens não puder ser mais compactado.
+* ``wrap-reverse``: permite a quebra de linha assim que um dos flex itens não puder ser mais compactado, porém na direção contrária da linha acima.
+
