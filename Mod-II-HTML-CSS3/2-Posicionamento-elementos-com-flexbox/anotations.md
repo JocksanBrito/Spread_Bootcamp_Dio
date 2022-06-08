@@ -96,3 +96,5 @@ Por padrão ele não quebram linhas, isso faz com que os flex itens sejam compac
 
 Porém seu uso não é tão comum, visto que, quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é o nowrap.
 
+*[Prática]("../../praticas-html/flex-flow.html")*
+
