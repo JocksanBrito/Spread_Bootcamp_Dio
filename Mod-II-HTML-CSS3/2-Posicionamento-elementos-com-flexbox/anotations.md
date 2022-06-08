@@ -89,3 +89,10 @@ Por padrão ele não quebram linhas, isso faz com que os flex itens sejam compac
 * ``wrap``: permite a quebra de linha a ssim que um dos flex itens não puder ser mais compactado.
 * ``wrap-reverse``: permite a quebra de linha assim que um dos flex itens não puder ser mais compactado, porém na direção contrária da linha acima.
 
+*[Prática]("../../praticas-html/2-flex-wrap.html")*
+
+#### ``flex-flow``
+É um atalho para as propriedades flex-direction e flex-wrap.
+
+Porém seu uso não é tão comum, visto que, quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é o nowrap.
+
